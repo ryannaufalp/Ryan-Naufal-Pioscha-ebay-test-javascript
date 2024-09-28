@@ -1,0 +1,4 @@
+# Ignore node_modules directory (commonly used in Node.js projects)
+node_modules/
+
+Ryan_Naufal_Pioscha/node_modules

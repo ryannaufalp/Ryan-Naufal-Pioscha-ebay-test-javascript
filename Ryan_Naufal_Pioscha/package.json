@@ -1,0 +1,19 @@
+{
+  "name": "ryan_naufal_pioscha",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chai": "^5.1.1",
+    "chromedriver": "^129.0.1",
+    "mocha": "^10.7.3",
+    "selenium-webdriver": "^4.25.0"
+  },
+  "type": "module"
+}
